@@ -7,9 +7,9 @@
 #define in1pin 16  // D2 <-> IN1
 #define in2pin 5  // D4 <-> IN2
 
-char auth[] = "MXOwCHaOdu497lgLwcNuwoO4dIA-Mwis";
-char ssid[] = "LAPTOP-DC0B6GUM 2568";
-char pass[] = "Sb6/6801";
+char auth[] = "auth";
+char ssid[] = "wifi ssid";
+char pass[] = "wifipassword";
 void setup()
 {
  Serial.begin(9600);
