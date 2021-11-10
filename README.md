@@ -11,3 +11,7 @@ This project use Blynk to control RC
   - 2x DC motor
   - 4x AA battery
   - Acrylic frame
+
+##Required library 
+  -ESP8266
+  -Blynk
