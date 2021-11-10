@@ -13,5 +13,5 @@ This project use Blynk to control RC
   - Acrylic frame
 
 ## Required library 
-  -ESP8266
-  -Blynk
+  - ESP8266
+  - Blynk
